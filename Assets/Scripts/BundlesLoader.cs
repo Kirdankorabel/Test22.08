@@ -73,12 +73,12 @@ public class BundlesLoader : MonoBehaviour
     private IEnumerator WaiteCorutine()
     {
         yield return new WaitForSeconds(3);
+        while(!_ready)
+            yield return null;
+        _scroleBar.UpdateImage(100f);
+
+        SceneManager.LoadScene(_sceneName);
         yield return null;
-        if(_ready)
-        {
-            _scroleBar.UpdateImage(100f);
-            SceneManager.LoadScene(_sceneName);
-        }
     }
 
     private void OnApplicationQuit()
