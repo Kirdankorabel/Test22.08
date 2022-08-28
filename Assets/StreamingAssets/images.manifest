@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2926658333
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7615a6591962562118d60fe2b8b9c8a9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resourses/Sprites/Down/European Naval Powers3.asset
+- Assets/Resourses/Sprites/Down/European Naval Powers2.asset
+- Assets/Resourses/Sprites/Down/European Naval Powers4.asset
+Dependencies:
+- D:/Reps/Test22.08/Assets/StreamingAssets/textures

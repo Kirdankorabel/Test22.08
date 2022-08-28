@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4157322635
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: images
+      Dependencies: {}
+    Info_1:
+      Name: icons
+      Dependencies: {}
+    Info_2:
+      Name: sounds
+      Dependencies: {}
+    Info_3:
+      Name: musics
+      Dependencies: {}

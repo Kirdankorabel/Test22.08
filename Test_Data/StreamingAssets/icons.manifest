@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2834245836
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: da91380836d31f8e1b97a3d9c686bc2e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resourses/Sprites/Top/European Naval Powers_0.asset
+- Assets/Resourses/Sprites/Top/European Naval Powers_4.asset
+- Assets/Resourses/Sprites/Top/European Naval Powers_8.asset
+- Assets/Resourses/Sprites/Top/European Naval Powers_12.asset
+Dependencies: []

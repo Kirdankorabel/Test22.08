@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 4051129838
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c21f0de29af23b14d1dacf8165bdb8b9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resourses/Sprites/Down/European Naval Powers_13.asset
+- Assets/Resourses/Sprites/Down/European Naval Powers_14.asset
+- Assets/Resourses/Sprites/Down/European Naval Powers_15.asset
+- Assets/Resourses/Sprites/Down/European Naval Powers_3.asset
+- Assets/Resourses/Sprites/Down/European Naval Powers_2.asset
+- Assets/Resourses/Sprites/Down/European Naval Powers_9.asset
+- Assets/Resourses/Sprites/Down/European Naval Powers_5.asset
+- Assets/Resourses/Sprites/Down/European Naval Powers_10.asset
+- Assets/Resourses/Sprites/Down/European Naval Powers_1.asset
+- Assets/Resourses/Sprites/Down/European Naval Powers_11.asset
+- Assets/Resourses/Sprites/Down/European Naval Powers_7.asset
+- Assets/Resourses/Sprites/Down/European Naval Powers_6.asset
+Dependencies: []
